@@ -1,0 +1,14 @@
+{
+  "name": "Kibou",
+  "short_name": "Kibou",
+  "description": "Botiga, perruqueria i consultori veterinari a Llorenç del Penedès.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#F8E8CF",
+  "theme_color": "#04080A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
