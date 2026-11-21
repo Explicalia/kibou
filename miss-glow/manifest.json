@@ -1,0 +1,60 @@
+{
+  "reference_height": 78,
+  "poses": {
+    "hero": {
+      "source_sha256": "cc4b7be0bc92a84f6af9f2d22535b620035fa3fde14bd109e1dbb8e986bfa17f",
+      "aura_sha256": "1055d87be1cd2d98bda3b30ba0c0eae211865aa3adb8e1f724345de6cbda1036",
+      "source_size": [
+        173,
+        240
+      ],
+      "padding": 148,
+      "padding_ratio": 0.6166666666666667,
+      "bytes": 38895
+    },
+    "listen": {
+      "source_sha256": "666b668094245312f9fb278d2b43f5088c6dcd040dcd9a3431b8750881b7767a",
+      "aura_sha256": "968154589429cdbe899713f27afee5fce8af72044042a7fc2b115b3ba7d8c040",
+      "source_size": [
+        184,
+        240
+      ],
+      "padding": 148,
+      "padding_ratio": 0.6166666666666667,
+      "bytes": 33021
+    },
+    "think": {
+      "source_sha256": "27ce19cc97ddbda49fcb028e35ac5a5c3d975111990420a4d0c4006f56808662",
+      "aura_sha256": "a3b250652fb61e5df9d6e7657b6c57fab8e0da48f6200bff5b8696cfa7abbf14",
+      "source_size": [
+        163,
+        240
+      ],
+      "padding": 148,
+      "padding_ratio": 0.6166666666666667,
+      "bytes": 30428
+    },
+    "cheer": {
+      "source_sha256": "1df99514fcc3e7eb8adf42e3727a73ce83d2d4b320f2ddbec17b27a7b8463ac5",
+      "aura_sha256": "e99b85d1a37db4e351564a48dbec3fc89ba875625491f728d7afde42fabb934a",
+      "source_size": [
+        178,
+        240
+      ],
+      "padding": 148,
+      "padding_ratio": 0.6166666666666667,
+      "bytes": 38979
+    },
+    "play": {
+      "source_sha256": "b39c2e9b4616fb77b81d5cd048150d93d532b840d77826b93f3c2bc59ebd10bb",
+      "aura_sha256": "aab25c07c460196f116548ca2d6dc6f3a3f74d50cae27b1c7183e15e16851a95",
+      "source_size": [
+        215,
+        240
+      ],
+      "padding": 148,
+      "padding_ratio": 0.6166666666666667,
+      "bytes": 42307
+    }
+  }
+}
